@@ -1,0 +1,604 @@
+{
+  "trial": {
+    "id": "2026-02-14T18:52:16.282Z",
+    "meta": {
+      "interaction": "MOUSE_RAY",
+      "nTargets": 20,
+      "size": "LARGE",
+      "depth": "NEAR",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "platform": "MacIntel"
+    },
+    "events": [
+      {
+        "t": 1,
+        "type": "START"
+      },
+      {
+        "t": 1,
+        "type": "TRIAL_BEGIN"
+      },
+      {
+        "t": 12,
+        "type": "TARGET_SHOWN",
+        "id": "T1",
+        "x": -0.6030826214728021,
+        "y": 1.9575384521987291,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 8146,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 8965,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 8966,
+        "type": "TARGET_HIT",
+        "id": "T1",
+        "reaction_ms": 8954,
+        "offset_m": 2.944
+      },
+      {
+        "t": 8968,
+        "type": "TARGET_SHOWN",
+        "id": "T2",
+        "x": 0.7534460639965487,
+        "y": 1.7123915591453374,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 8969,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 20613,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 21304,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 21304,
+        "type": "TARGET_HIT",
+        "id": "T2",
+        "reaction_ms": 12336,
+        "offset_m": 3.394
+      },
+      {
+        "t": 21305,
+        "type": "TARGET_SHOWN",
+        "id": "T3",
+        "x": -0.36408883453292107,
+        "y": 1.1044909391196458,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 21307,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 27198,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 27616,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 27617,
+        "type": "TARGET_HIT",
+        "id": "T3",
+        "reaction_ms": 6312,
+        "offset_m": 3.013
+      },
+      {
+        "t": 27617,
+        "type": "TARGET_SHOWN",
+        "id": "T4",
+        "x": -0.7521537254763175,
+        "y": 1.4521969841030917,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 27618,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 31331,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 31746,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 31747,
+        "type": "TARGET_HIT",
+        "id": "T4",
+        "reaction_ms": 4130,
+        "offset_m": 2.904
+      },
+      {
+        "t": 31747,
+        "type": "TARGET_SHOWN",
+        "id": "T5",
+        "x": 0.8499542027269197,
+        "y": 2.058866476220401,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 31748,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 35915,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 36332,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 36332,
+        "type": "TARGET_HIT",
+        "id": "T5",
+        "reaction_ms": 4585,
+        "offset_m": 3.459
+      },
+      {
+        "t": 36333,
+        "type": "TARGET_SHOWN",
+        "id": "T6",
+        "x": -0.7929785200388287,
+        "y": 1.648187935121928,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 36334,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 40098,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 40499,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 40499,
+        "type": "TARGET_HIT",
+        "id": "T6",
+        "reaction_ms": 4166,
+        "offset_m": 2.895
+      },
+      {
+        "t": 40500,
+        "type": "TARGET_SHOWN",
+        "id": "T7",
+        "x": 0.4116767285226445,
+        "y": 1.189159806260227,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 40502,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 44632,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 44963,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 44963,
+        "type": "TARGET_HIT",
+        "id": "T7",
+        "reaction_ms": 4463,
+        "offset_m": 3.262
+      },
+      {
+        "t": 44965,
+        "type": "TARGET_SHOWN",
+        "id": "T8",
+        "x": 0.11552099715748099,
+        "y": 1.224762736853779,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 44967,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 47098,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 47370,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 47370,
+        "type": "TARGET_HIT",
+        "id": "T8",
+        "reaction_ms": 2405,
+        "offset_m": 3.147
+      },
+      {
+        "t": 47370,
+        "type": "TARGET_SHOWN",
+        "id": "T9",
+        "x": -0.3801995855296523,
+        "y": 1.6475582394253099,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 47371,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 51233,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 51568,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 51568,
+        "type": "TARGET_HIT",
+        "id": "T9",
+        "reaction_ms": 4198,
+        "offset_m": 2.982
+      },
+      {
+        "t": 51570,
+        "type": "TARGET_SHOWN",
+        "id": "T10",
+        "x": 0.04207248324011714,
+        "y": 1.5509374250512753,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 51571,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 53682,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 53998,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 53998,
+        "type": "TARGET_HIT",
+        "id": "T10",
+        "reaction_ms": 2428,
+        "offset_m": 3.107
+      },
+      {
+        "t": 53999,
+        "type": "TARGET_SHOWN",
+        "id": "T11",
+        "x": -0.5664448914000237,
+        "y": 2.0583893711211343,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 54000,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 56481,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 57016,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 57017,
+        "type": "TARGET_HIT",
+        "id": "T11",
+        "reaction_ms": 3018,
+        "offset_m": 2.961
+      },
+      {
+        "t": 57018,
+        "type": "TARGET_SHOWN",
+        "id": "T12",
+        "x": -0.7361662241329127,
+        "y": 1.1619977530543373,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 57019,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 59282,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 59662,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 59663,
+        "type": "TARGET_HIT",
+        "id": "T12",
+        "reaction_ms": 2645,
+        "offset_m": 2.925
+      },
+      {
+        "t": 59664,
+        "type": "TARGET_SHOWN",
+        "id": "T13",
+        "x": 0.15551843146815492,
+        "y": 1.914393106348596,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 59664,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 62480,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 62881,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 62882,
+        "type": "TARGET_HIT",
+        "id": "T13",
+        "reaction_ms": 3219,
+        "offset_m": 3.157
+      },
+      {
+        "t": 62883,
+        "type": "TARGET_SHOWN",
+        "id": "T14",
+        "x": 0.24104460742858602,
+        "y": 1.8986311944810912,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 62885,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 65365,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 65668,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 65668,
+        "type": "TARGET_HIT",
+        "id": "T14",
+        "reaction_ms": 2785,
+        "offset_m": 3.187
+      },
+      {
+        "t": 65669,
+        "type": "TARGET_SHOWN",
+        "id": "T15",
+        "x": 0.2088117357688467,
+        "y": 1.5248783450777124,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 65669,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 68248,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 68582,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 68582,
+        "type": "TARGET_HIT",
+        "id": "T15",
+        "reaction_ms": 2913,
+        "offset_m": 3.167
+      },
+      {
+        "t": 68583,
+        "type": "TARGET_SHOWN",
+        "id": "T16",
+        "x": 0.8076294531360867,
+        "y": 1.9686969605760298,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 68585,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 71048,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 71364,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 71365,
+        "type": "TARGET_HIT",
+        "id": "T16",
+        "reaction_ms": 2782,
+        "offset_m": 3.431
+      },
+      {
+        "t": 71366,
+        "type": "TARGET_SHOWN",
+        "id": "T17",
+        "x": -0.7225964768046966,
+        "y": 1.5687397603603066,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 71366,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 73716,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 74049,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 74049,
+        "type": "TARGET_HIT",
+        "id": "T17",
+        "reaction_ms": 2683,
+        "offset_m": 2.907
+      },
+      {
+        "t": 74049,
+        "type": "TARGET_SHOWN",
+        "id": "T18",
+        "x": 0.7371630014638745,
+        "y": 1.2240853913341105,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 74050,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 77748,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 78201,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 78202,
+        "type": "TARGET_HIT",
+        "id": "T18",
+        "reaction_ms": 4153,
+        "offset_m": 3.399
+      },
+      {
+        "t": 78202,
+        "type": "TARGET_SHOWN",
+        "id": "T19",
+        "x": 0.6880785033534088,
+        "y": 1.5372400842758989,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 78203,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 80013,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 80350,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 80350,
+        "type": "TARGET_HIT",
+        "id": "T19",
+        "reaction_ms": 2148,
+        "offset_m": 3.363
+      },
+      {
+        "t": 80351,
+        "type": "TARGET_SHOWN",
+        "id": "T20",
+        "x": 0.6923693488716037,
+        "y": 1.8921441593169275,
+        "z": -1.6,
+        "r": 0.2
+      },
+      {
+        "t": 80352,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 82649,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 82986,
+        "type": "MISS_CLICK"
+      },
+      {
+        "t": 82987,
+        "type": "TARGET_HIT",
+        "id": "T20",
+        "reaction_ms": 2636,
+        "offset_m": 3.373
+      },
+      {
+        "t": 82987,
+        "type": "END"
+      },
+      {
+        "t": 112515,
+        "type": "SURVEY",
+        "survey": {
+          "ease": 7,
+          "efficiency": 6,
+          "control": 5
+        }
+      }
+    ],
+    "summary": {
+      "duration_ms": 82987,
+      "hits": 20,
+      "misses": 59,
+      "mean_reaction_ms": 3613,
+      "mean_offset_m": "2.099"
+    },
+    "survey": {
+      "ease": 7,
+      "efficiency": 6,
+      "control": 5
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "xr-bench-pickplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^1.7.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "playwright": "^1.58.2",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18"
+  }
+}
